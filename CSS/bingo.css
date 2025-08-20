@@ -1,0 +1,31 @@
+body {
+    background: red;
+    min-height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table {
+    background: white;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+
+}
+
+th{
+    width: 20%;
+    height: 20%;
+    text-align: center;
+    border:none;
+    border-radius: 0px;
+}
+td{
+    border-radius: 12px;
+    border:1px solid black;
+    text-align: center;
+    padding: 10px, 10px, 10px, 10px;
+    ;
+}
